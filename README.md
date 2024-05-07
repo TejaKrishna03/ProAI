@@ -25,10 +25,9 @@ _you can checkout the app [here](https://chatgpt.eyucoder.com/)_
 
 - [x] gpt 3.5 and 4
 - [x] dall.e image generator
+- [x] gemini 
 - [x] save chat to localstorage
 - [x] chat context
-
-## If you find this project helpful, you can buy me a coffee here
 
 <a href="https://www.buymeacoffee.com/eyuel" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 150px !important;" ></a>
 
