@@ -29,7 +29,6 @@ _you can checkout the app [here](https://chatgpt.eyucoder.com/)_
 - [x] save chat to localstorage
 - [x] chat context
 
-<a href="https://www.buymeacoffee.com/eyuel" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 150px !important;" ></a>
 
 ## install
 
